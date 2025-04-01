@@ -1,4 +1,9 @@
 Carrot
+<<<<<<< HEAD
 Beans
 Potato
+=======
+Potato
+Beans
+>>>>>>> main
 Cauliflower
